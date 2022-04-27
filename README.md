@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JonasCSilva/jonascsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <h1>Olá, 👋</h1>
+  <a href="https://github.com/jonascsilva">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonascsilva&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+ <div align="center">
+   <br>
+  <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="CSS Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Victor-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reac/react-plain.svg">
+  <img align="center" alt="Node Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+</div>
