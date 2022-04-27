@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Olá 👋</h1>
-  <a href="https://github.com/jonascsilva">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonascsilva&&theme=midnight-purple"/>
 </div>
   
@@ -28,6 +27,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Flutter Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Blender Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
   <img align="center" alt="Unity Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
-  <img align="center" alt="Unreal Engine Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/
-unrealengine-original.svg ">
+  <img align="center" alt="Unreal Engine Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
 </div>
