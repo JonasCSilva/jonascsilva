@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>Olá 👋</h1>
   <a href="https://github.com/jonascsilva">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=jonascsilva&show_icons=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=jonascsilva&show_icons=true&&theme=midnight-purple"/>
 </div>
   
  <div align="center">
