@@ -25,6 +25,5 @@ Here are some ideas to get you started:
   <img align="center" alt="TypeScript Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Victor-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reac/react-plain.svg">
   <img align="center" alt="Node Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
 </div>
